@@ -1,0 +1,9 @@
+Before final submission:
+1. Run pip install -r requirements.txt
+2. Run uvicorn main:app --reload
+3. Test http://127.0.0.1:8000/docs
+4. Take a Swagger screenshot.
+5. Create a PUBLIC GitHub repository.
+6. Push these files.
+7. Make at least 6 meaningful commits matching the README.
+A ZIP file alone does not satisfy the GitHub/public-repository requirement.
